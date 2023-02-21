@@ -1,4 +1,8 @@
 
+
+
+
+
 //Q.1.....
 
 // let a = Number(prompt("How many french fries"))
@@ -51,12 +55,144 @@
 
 //Q.5........
 
-let a = Number(prompt("What is your birth year"))
+// ans-5
 
-if ( a >= 18 ){
-  alert("Do you have valid license number?")
-  alert("User with license number #### is ready to drive."")
-}
+// let birthyear=prompt("What is your birth year");
+// let age =21;
+
+// if(age>18){
+//     console.log (prompt("Do you have valid license number"));
+//     alert(age)
+   
+// }
+// else{
+// console.log (prompt("You are ready to drive with your #### (show gaurdian name here."));
+// alert("Sorry visit again please.");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
